@@ -4,7 +4,7 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({
   }
 });
 
-const publisherKey = '750a8724-fa66-4c27-b645-bd58ac5ee010';
+const publisherKey = 'bb922300-7ddb-11de-a300-90ac77aa923f';
 
 var siteConfig = {
   routes: {
