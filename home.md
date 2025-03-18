@@ -5,7 +5,7 @@ preTitle: Hosted Portal
 title: ZooKeys
 description: Browse data on GBIF associated with publications in ZooKeys
 background: /assets/images/placeholders/zk-hp-cover.jpg
-imageLicense: Ma S, Xu Y-H, Qi S, Wang Y-Y, Tang S-S, Huang S, Jiang J-P (2023) Discovery of a new cryptic _Achalinus_ Peters, 1869 (Serpentes, Xenodermidae) species from Hunan Province, China. ZooKeys 1181':' 9-27. [https://doi.org/10.3897/zookeys.1181.109462](https://doi.org/10.3897/zookeys.1181.109462)
+imageLicense: "Ma S, Xu Y-H, Qi S, Wang Y-Y, Tang S-S, Huang S, Jiang J-P (2023) Discovery of a new cryptic _Achalinus_ Peters, 1869 (Serpentes, Xenodermidae) species from Hunan Province, China. ZooKeys 1181: 9-27. [https://doi.org/10.3897/zookeys.1181.109462](https://doi.org/10.3897/zookeys.1181.109462)"
 height: 75vh
 cta:
   - text: Datasets

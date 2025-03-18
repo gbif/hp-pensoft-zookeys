@@ -10,13 +10,13 @@ height: 70vh
 
 This is а GBIF Hosted Portal, displaying data extracted or associated with articles published in [ZooKeys](https://zookeys.pensoft.net/).
 
-ZooKeys is a peer-reviewed, open-access, rapidly disseminated journal launched to accelerate research and free information exchange in taxonomy, phylogeny, biogeography and evolution of animals.
+**ZooKeys** is a peer-reviewed, open-access, rapidly disseminated journal launched to accelerate research and free information exchange in taxonomy, phylogeny, biogeography and evolution of animals.
 
-ZooKeys aims to apply the latest trends and methodologies in publishing and preservation of digital materials to meet the highest possible standards of the cybertaxonomy era.
+**ZooKeys** aims to apply the latest trends and methodologies in publishing and preservation of digital materials to meet the highest possible standards of the cybertaxonomy era.
 
-ZooKeys publishes papers in systematic zoology containing taxonomic/faunistic data on any taxon of any geological age from any part of the world with no limit to manuscript size. To respond to the current trends in linking biodiversity information and synthesizing the knowledge through technology advancements, ZooKeys also publishes papers across other taxon-based disciplines, such as ecology, molecular biology, genomics, evolutionary biology, paleontology, behavioural science, bioinformatics, etc.
+**ZooKeys** publishes papers in systematic zoology containing taxonomic/faunistic data on any taxon of any geological age from any part of the world with no limit to manuscript size. To respond to the current trends in linking biodiversity information and synthesizing the knowledge through technology advancements, ZooKeys also publishes papers across other taxon-based disciplines, such as ecology, molecular biology, genomics, evolutionary biology, paleontology, behavioural science, bioinformatics, etc.
 
-ZooKeys will consider for publishing works on the following topics:
+**ZooKeys** will consider for publishing works on the following topics:
 
 * descriptions of new taxa, if they are accomplished with proper diagnoses, keys and/or revision of at least at species group level
 * taxonomic revisions of extant (or ''recent'') and fossil animal groups

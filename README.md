@@ -1,5 +1,5 @@
 [![GBIF Hosted Portal](https://docs.gbif.org/style/gbif-hosted-portal.svg)](https://github.com/gbif/hosted-portals)
-[![Build Status](https://builds.gbif.org/job/hp-biodiversity-data-journal/badge/icon)](https://builds.gbif.org/job/hp-biodiversity-data-journal/lastBuild/console)
+[![Build Status](https://builds.gbif.org/job/hp-zookeys/badge/icon)](https://builds.gbif.org/job/hp-zookeys/lastBuild/console)
 <!-- License badge example: [![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY%2D-SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) -->
 
 # GBIF Hosted Portal: zookeys
