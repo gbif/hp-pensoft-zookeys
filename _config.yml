@@ -23,7 +23,7 @@ title: ZooKeys Hosted Portal
 email: zookeys@pensoft.net
 description: ZooKeys Hosted Portal
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zookeys.hp.gbif.org" # https://data.zookeys.pensoft.net/ the base hostname & protocol for your site, e.g. http://example.com
+url: "https://data.zookeys.pensoft.net/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ZooKeys_Journal # if you have an account you want to link to. Else comment this line out
 bluesky_username: zookeys.pensoft.net
 facebook_username: ZooKeysJournal
