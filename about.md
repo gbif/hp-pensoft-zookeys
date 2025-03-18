@@ -4,7 +4,7 @@ title: About
 # description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 background: /assets/images/placeholders/zk-hp-about.jpg
 imageLicense: |
-  Yu H, Zhang C, Lu Q, Lin Y (2024) A survey of Hersilia spiders (Araneae, Hersiliidae) from Xishuangbanna, Yunnan Province, China. Biodiversity Data Journal 12: e142805. [https://doi.org/10.3897/BDJ.12.e142805](https://doi.org/10.3897/BDJ.12.e142805)
+  González-Sánchez VH, Johnson JD, González-Solís D, Fucsko LA, Wilson LD (2021) A review of the introduced herpetofauna of Mexico and Central America, with comments on the effects of invasive species and biosecurity methodology. ZooKeys 1022: 79-154. [https://doi.org/10.3897/zookeys.1022.51422](https://doi.org/10.3897/zookeys.1022.51422)  
 height: 70vh
 ---
 
