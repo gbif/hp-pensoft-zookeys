@@ -2,25 +2,34 @@
 lang-ref: about
 title: About
 # description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/placeholders/bdj-hp-about.jpg
+background: /assets/images/placeholders/zk-hp-about.jpg
 imageLicense: |
   Yu H, Zhang C, Lu Q, Lin Y (2024) A survey of Hersilia spiders (Araneae, Hersiliidae) from Xishuangbanna, Yunnan Province, China. Biodiversity Data Journal 12: e142805. [https://doi.org/10.3897/BDJ.12.e142805](https://doi.org/10.3897/BDJ.12.e142805)
 height: 70vh
 ---
 
-This is а GBIF Hosted Portal, displaying data extracted or associated with articles published in [Biodiversity Data Journal](https://bdj.pensoft.net/).
+This is а GBIF Hosted Portal, displaying data extracted or associated with articles published in [ZooKeys](https://zookeys.pensoft.net/).
 
-**Biodiversity Data Journal (BDJ)** is a community peer-reviewed, open access, comprehensive online platform, designed to accelerate publishing, dissemination and sharing of biodiversity-related data of any kind. All structural elements of the articles – text, morphological descriptions, occurrences, data tables etc. – will be treated and stored as data, in accordance with the Data [Publishing Policies and Guidelines of Pensoft Publishers](https://doi.org/10.3897/rio.3.e12431).
+ZooKeys is a peer-reviewed, open-access, rapidly disseminated journal launched to accelerate research and free information exchange in taxonomy, phylogeny, biogeography and evolution of animals.
 
-The journal will publish papers in biodiversity science containing taxonomic, floristic/faunistic, morphological, genomic, phylogenetic, ecological or environmental data on any taxon of any geological era from any part of the world with no lower or upper limit to manuscript size. For example:
+ZooKeys aims to apply the latest trends and methodologies in publishing and preservation of digital materials to meet the highest possible standards of the cybertaxonomy era.
 
-* single taxon treatments and nomenclatural acts (e.g., new taxa, new taxon names, new synonyms, changes in taxonomic status, re-descriptions, etc.);
-* data papers describing biodiversity-related databases, including ecological and environmental data;
-* sampling reports, local observations or occasional inventories, if these contain novel data;
-* local or regional checklists and inventories;
-* habitat-based checklists and inventories;
-* ecological and biological observations of species and  communities;
-* any kind of identification keys, from conventional dichotomous to multi-access interactive online keys;
-* descriptions of biodiversity-related software tools.
-  
-For more information, you may look at the Editorial [Beyond dead trees: integrating the scientific process in the Biodiversity Data Journal](https://bdj.pensoft.net/articles.php?id=995) and press release [The Biodiversity Data Journal: Readable by humans and machines](http://www.eurekalert.org/pub_releases/2013-09/pp-tbd091613.php).
+ZooKeys publishes papers in systematic zoology containing taxonomic/faunistic data on any taxon of any geological age from any part of the world with no limit to manuscript size. To respond to the current trends in linking biodiversity information and synthesizing the knowledge through technology advancements, ZooKeys also publishes papers across other taxon-based disciplines, such as ecology, molecular biology, genomics, evolutionary biology, paleontology, behavioural science, bioinformatics, etc.
+
+ZooKeys will consider for publishing works on the following topics:
+
+* descriptions of new taxa, if they are accomplished with proper diagnoses, keys and/or revision of at least at species group level
+* taxonomic revisions of extant (or ''recent'') and fossil animal groups
+* checklists and catalogues
+* phylogenetic and evolutionary analyses
+* papers in descriptive and/or historical biogeography
+* methodology papers
+* data mining and literature surveys
+* monographs, conspecti, atlases with no size limit
+* collections of papers, Festschrift volumes, conference proceedings
+* reviews - longer articles, offering a comprehensive overview, historical analysis or/and future perspectives of a topic
+* short communications
+* letters and discussion papers
+* book reviews
+
+ISBN numbers will be assigned to large monographic papers (i.e., major revisions of taxa, collections of papers, Festschrift volumes, atlases, checklists, conspecti).
